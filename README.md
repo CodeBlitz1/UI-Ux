@@ -8,3 +8,9 @@ INTERN ID: CT04DR678
 DOMAIN; UI UX
 DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
+
+#OLD DESIGN 
+<img width="685" height="569" alt="Image" src="https://github.com/user-attachments/assets/5a1fee5d-0fd3-443e-a123-49f3f85f07d7" />
+
+
+#NEW DESIGN 
